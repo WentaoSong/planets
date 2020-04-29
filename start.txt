@@ -1,7 +1,5 @@
 It is nice to hear you speaking as I know you must be my countryman.
-This line is created to mimic a conflict :P
-<<<<<<< HEAD
+This line is created to mimic a conflict
 Let's see a conflict!
-=======
 I am at Dalhousie University.
->>>>>>> a14fd86bfe48020c45c7f4ff9cdb5e220e54ae06
+Conflict resolved with Manual fix.
